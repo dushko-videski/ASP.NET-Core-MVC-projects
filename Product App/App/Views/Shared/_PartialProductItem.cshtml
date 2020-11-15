@@ -1,0 +1,10 @@
+﻿@model ProductVM
+
+<p>Product details:</p>
+<ul>
+    <li>Category: @Model.Category</li>
+    <li>Name: @Model.Name</li>
+    <li>Price: @Model.Price $</li>
+</ul>
+
+<a asp-controller="Product" asp-action="EditProduct" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>

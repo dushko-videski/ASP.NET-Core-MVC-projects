@@ -1,0 +1,51 @@
+﻿@model ProductVM
+
+@{
+    ViewData["Title"] = "EditProduct";
+}
+
+<h2>Edit Product</h2>
+
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.Error
+    </div>
+}
+
+
+<form asp-route="EditProduct" method="post">
+
+    <h3>Product details:</h3>
+
+    <label asp-for="Id"></label>
+    <input asp-for="Id" value="@Model.Id" placeholder="Id" disabled /> <br /> <br />
+
+    <label asp-for="Name"></label>
+    <input asp-for="Name" value="@Model.Name" placeholder="Name" /><br /> <br />
+    @*<span asp-validation-for="Name"></span> <br /><br />*@
+
+
+    <label asp-for="Price"></label>
+    <input asp-for="Price" value="@Model.Price" placeholder="Price" /><br /> <br />
+    @*<span asp-validation-for="Price"></span> <br /><br />*@
+
+
+    <label asp-for="Description"></label>
+    <input asp-for="Description" value="@Model.Description" placeholder="Description" /><br /> <br />
+    @*<span asp-validation-for="Description"></span> <br /><br />*@
+
+
+    <label asp-for="Category"></label>
+    <select asp-for="Category" asp-items="Html.GetEnumSelectList<ProductCategory>()">
+        <option value="">Please select</option>
+    </select><br /><br />
+    @*<span asp-validation-for="Category"></span> <br /><br />*@
+
+
+
+    <button type="submit" class="btn btn-primary">Submit change</button>
+
+</form>
+

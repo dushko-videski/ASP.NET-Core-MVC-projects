@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "948xQ0nTqYdpF0woE7ZDFXpQDhZ0wAOgL8aWW0j/sOfMcnJrc4/S+i+PplNKstTPNwSMXqiDj08gvYA1BkDTuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\7.ASP.NET Core MVC\\Product-app\\DataLayer\\DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dushk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dushk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dushk\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

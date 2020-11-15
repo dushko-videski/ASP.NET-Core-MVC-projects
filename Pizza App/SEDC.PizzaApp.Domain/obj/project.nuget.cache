@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WW7HNLSGZkMNqJ/HVwzmVH+9NzpX411hh713tDb9UVyJ5VhYpag5c+FRdUyjVKZ1/Yn2w8b9WPbTM8yJuW/A1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\7.ASP.NET Core MVC\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dushk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dushk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dushk\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

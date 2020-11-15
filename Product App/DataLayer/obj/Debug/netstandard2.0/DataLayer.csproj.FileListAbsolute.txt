@@ -1,0 +1,18 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class6\Redo.ProductApp.Homework.Class04\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Product-app\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
